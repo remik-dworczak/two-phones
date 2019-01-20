@@ -1,4 +1,4 @@
-package vedaco.com.two_phones;
+package com.vedaco.twophones;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

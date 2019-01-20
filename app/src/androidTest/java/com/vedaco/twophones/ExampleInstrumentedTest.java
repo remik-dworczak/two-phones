@@ -1,4 +1,4 @@
-package vedaco.com.two_phones;
+package com.vedaco.twophones;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
